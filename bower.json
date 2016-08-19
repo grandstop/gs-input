@@ -1,6 +1,5 @@
 {
   "name": "gs-input",
-  "version": "1.0.0-beta",
   "description": "Grandstop Input",
   "main": "gs-input.html",
   "keywords": [
@@ -10,6 +9,10 @@
     "grandstop",
     "input"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/grandstop/gs-input.git"
+  },
   "authors": [
     "The Grandstop Authors"
   ],
