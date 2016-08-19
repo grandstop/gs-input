@@ -1,0 +1,37 @@
+{
+  "name": "gs-input",
+  "version": "1.0.0-beta",
+  "description": "Grandstop Input",
+  "main": "gs-input.html",
+  "keywords": [
+    "web-components",
+    "web-component",
+    "polymer",
+    "grandstop",
+    "input"
+  ],
+  "authors": [
+    "The Grandstop Authors"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0",
+    "iron-autogrow-textarea": "PolymerElements/iron-autogrow-textarea#^1.0.0",
+    "iron-behaviors": "PolymerElements/iron-behaviors#^1.0.0",
+    "iron-form-element-behavior": "PolymerElements/iron-form-element-behavior#^1.0.0",
+    "iron-input": "PolymerElements/iron-input#^1.0.0",
+    "paper-styles": "PolymerElements/paper-styles#^1.1.4",
+    "iron-a11y-keys-behavior": "PolymerElements/iron-a11y-keys-behavior#^1.0.0"
+  }
+}

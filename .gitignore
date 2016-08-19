@@ -1,0 +1,11 @@
+/node_modules
+/npm-debug.log
+
+/test
+
+/component.json
+/bower_components
+
+/npm-shrinkwrap.json
+
+/snippets
